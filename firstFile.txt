@@ -1,1 +1,3 @@
 Original contents of firstFile
+UserA is creating a new feature
+it will be great.

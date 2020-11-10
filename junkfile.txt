@@ -1,1 +1,2 @@
 First contents of junkfile
+userA adds second line

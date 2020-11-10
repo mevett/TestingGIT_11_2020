@@ -1,2 +1,2 @@
 First contents of junkfile
-userA adds second line
+userA adds second line and is happy that userB is so cool.
